@@ -1,5 +1,5 @@
 # GraphRL
-Graph-Based Reinforcement Learning Agent for CartPole-v1 Using PyTorch Geometric
+GNN-Based Reinforcement Learning Agent for CartPole-v1 Using PyTorch Geometric
 
 
 This code is initial idea of below demo and PoC, please cite:
