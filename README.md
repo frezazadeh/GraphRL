@@ -8,4 +8,4 @@ This code is initial idea of below demo and PoC, please cite:
    
 3) F. Rezazadeh, S. Barrachina-Muñoz, E. Zeydan, H. Song, K.P. Subbalakshmi, and J. Mangues-Bafalluy, “X-GRL: An Empirical Assessment of Explainable GNN-DRL in B5G/6G Networks”, IEEE NFV-SDN, 2023. [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/10329778/authors#authors) [[arxiv]](https://arxiv.org/abs/2311.08798)
 
-<img src="plot/plot.png" alt="Network Diagram" width="400"/>
+<img src="Plot/plot.png" width="400"/>
